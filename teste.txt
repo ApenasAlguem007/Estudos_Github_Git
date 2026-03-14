@@ -1,1 +1,3 @@
-Aula de Git de Versionamento de Projetos - 13/03/2026
+Aula de Git de Versionamento de Projetos - 13/03/2026!
+
+Essa kinha foi adicionada apos o primeiro commit.
